@@ -1,10 +1,3 @@
-## Loss Functions
-
-<span style="color:DimGray; font-size: 11px; position:absolute; right:20px; bottom:20px;">Image credit: Midjourney 6.0<br> prompt: ‘Loss Function'
-</span>
-
----
-
 # Loss Function
 <div></div>
 
