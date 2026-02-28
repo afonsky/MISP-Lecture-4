@@ -1,0 +1,24 @@
+{
+  "name": "slidev_test",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.13.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "@twitwi/slidev-addon-ultracharger": "latest",
+    "chronos-timeline-md": "^1.0.11",
+    "plotly.js": "*",
+    "slidev-addon-remoji": "github:twitwi/slidev-addon-remoji",
+    "vue": "latest",
+    "vue3-plotly": "latest"
+  },
+  "devDependencies": {
+    "playwright-chromium": "*"
+  }
+}
